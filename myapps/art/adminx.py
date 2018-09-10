@@ -13,7 +13,7 @@ class BaseSetting(object):
 class GlobalSettings(object):
     # 整体配置
     site_title = '美文后台管理系统'
-    site_footer = '千锋教育python项目'
+    site_footer = 'python项目'
     menu_style = 'accordion'  # 菜单折叠
 
     # 搜索模型
